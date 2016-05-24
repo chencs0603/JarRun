@@ -1,6 +1,6 @@
 package personal.chencs.demolib;
 
-public class demoLib {
+public class DemoLib {
 	public static void sayHello(){
 		System.out.println("hello, chencs");
 	}
