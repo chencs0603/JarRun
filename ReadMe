@@ -1,0 +1,4 @@
+将Java Project输出可执行的Jar包，且Project依赖第三方库，利用mf文件和Fat Jar插件两种方法实现
+DemoLib：其输出的demoLib.jar充当第三方库；
+DemoRun：依赖demoLib.jar，需要将这个Project输出可执行的Jar包；
+Output：利用mf文件生成的Jar包存放在依赖版（Export）文件夹中，利用Fat Jar生成的Jar包存放在独立版（Fat Jar）文件夹中。
