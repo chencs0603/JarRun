@@ -1,0 +1,14 @@
+#Fat Jar Configuration File
+#Wed May 25 09:22:10 CST 2016
+onejar.license.required=true
+manifest.classpath=
+manifest.removesigners=true
+onejar.checkbox=false
+jarname=F\:\\Learning\\JarRun\\Output\\\u72EC\u7ACB\u7248(Fat Jar)\\DemoRun.jar
+manifest.mergeall=true
+manifest.mainclass=personal.chencs.demorun.DemoRun
+manifest.file=<createnew>
+jarname.isextern=true
+onejar.expand=
+excludes=
+includes=
